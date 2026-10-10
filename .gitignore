@@ -1,0 +1,7 @@
+.venv/
+.env
+products.csv
+conversation_log.csv
+__pycache__/
+*.py[cod]
+.pytest_cache/
